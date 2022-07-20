@@ -15,9 +15,9 @@
 
 > Visualization
 
-![0](comparison/realsr-zero-1.png)
+![0](comparison/real-zero-1.png)
 
-![1](comparison/realsr-zero-2.png)
+![1](comparison/real-zero-2.png)
 
 ### Citation:
 If you find this work useful for your research, please cite:
