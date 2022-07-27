@@ -1,6 +1,7 @@
 # RealSR-Zero
 
-## RealSR-Zero dataset provided by our paper ["Criteria Comparative Learning for Real-scene Image Super-Resolution"](https://github.com/house-leo/realsr-zero).
+## RealSR-Zero dataset provided by our paper ["Criteria Comparative Learning for Real-scene Image Super-Resolution"](https://github.com/house-leo/realsr-ccl) [[arxiv](https://arxiv.org/abs/2207.12767)]
+.
 
 ## Link: [Google Drive](https://drive.google.com/file/d/1A7wyIuSEBe4zzK9n05e81AD8Xz6LHAU9/view?usp=sharing), [Baidu Drive](https://pan.baidu.com/s/13D5uZUpORZbjlKVRN1doGg?pwd=ljdr)(ljdr)
 
